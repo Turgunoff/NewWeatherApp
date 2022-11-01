@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">New Weather App</string>
+    <string name="select_city_btn_str">Выбрать из списка</string>
+    <string name="get_coordinates_btn_str">Получить локацию телефона</string>
+    <string name="clear_coordinates_btn_str">Сбросить координаты</string>
+    <string name="get_weather_btn_str">Узнать погоду</string>
+    <string name="city_search_field_hint_str">Поиск</string>
+    <string name="latitude_hint_str">Широта (от -90 до 90)</string>
+    <string name="longitude_hint_str">Долгота (от -180 до 180)</string>
+    <string name="add_city_name_hint_str">Название</string>
+    <string name="add_city_latitude_hint_str">Широта</string>
+    <string name="add_city_longitude_hint_str">Долгота</string>
+    <string name="cancel_btn_str">Отмена</string>
+    <string name="add_btn_str">Добавить</string>
+    <string name="delete_dialog_text_str">Вы уверены, что хотите удалить выбранный элемент?</string>
+    <string name="delete_btn_str">Удалить</string>
+    <string name="open_map_btn_str">Выбрать на карте</string>
+    <string name="main_tv_str">Узнайте текущую погоду в любом месте планеты. Введите координаты вручную, либо выберите один из способов ниже.</string>
+</resources>
